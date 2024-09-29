@@ -11,7 +11,7 @@
     - MySQL
     - HTML5 CSS3
     - SaSS (Grid & Flex)
-- 🌱 I’m currently learning Python and React
+- 🌱 I’m currently learning Python, React and react native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Email: karuppaiah.k.tech@gmail.com
 
